@@ -1,0 +1,21 @@
+p {
+    color: darkgreen;
+    background-color: rgb(212, 212, 149);
+    padding: 15px 30px;
+     /* PADDING: BELSŐ MARGÓ, első érték fent lent(y) második érték ball jobb(x)*/
+     margin: 30px;
+    border-radius: 5px;
+    border: 5px dashed darkgreen;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 100%;
+}
+
+body {
+    width: 70%;
+    margin: 0 auto;
+    background-color: darkolivegreen;
+}
