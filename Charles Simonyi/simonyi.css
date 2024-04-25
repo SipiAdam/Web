@@ -1,0 +1,23 @@
+h1, h2 {
+    color: darkblue;
+}
+
+body {
+
+    font-family: Arial, Verdana, Sans Serif;
+    font-size: 130%;
+    background-color: #dbe0ff;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 15px;
+    margin-left: 180px;
+    color: darkblue;
+    
+    background: url(hatter.jpg);
+    background-repeat: repeat-y;
+}
+
+p {
+    padding: 30px;
+}
+
