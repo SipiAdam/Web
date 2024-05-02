@@ -40,7 +40,10 @@ a {
     border-radius: 10px;
     transition: background-color 0.3s ease;
     align-items: center;
-    width: 150px;    
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
 }
 
 a:hover {
